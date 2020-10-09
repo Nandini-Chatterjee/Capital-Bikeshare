@@ -20,9 +20,5 @@ Weather Information: http://www.freemeteo.com
 Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
 
 
-delete it
-
-
-
 
 
